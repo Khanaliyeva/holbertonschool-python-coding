@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-# 0-square.py
+"""
+This module defines a Square class with a private size attribute.
+"""
 
 class Square:
     def __init__(self, size):
